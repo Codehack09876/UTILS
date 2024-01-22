@@ -16,6 +16,8 @@ def check_ifreal(y: pd.Series) -> bool:
     return is_real
     pass
 
+def mse
+
 
 def entropy(Y: pd.Series) -> float:
     """
